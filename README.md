@@ -1,6 +1,6 @@
-<p align="left">
+<!--<p align="left">
   <img src="https://api.boot.dev/v1/users/public/fcfc0c4c-6de6-4c40-aee3-eb50524b95f5/thumbnail" >
-</p>
+</p>-->
 
 <!--
 **KarlOlofA/KarlOlofA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
