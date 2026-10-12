@@ -5,7 +5,7 @@
 ## Currently building AI recruitment tooling
 ## Trajectory
 
-I’m currently learning distributed systems through modular bits. I love modularity in all things. I imagine it as Lego where you pick and choose the exact parts you need. 
+I’m currently learning distributed systems through modular bits. 
 
 ## Startups
 
